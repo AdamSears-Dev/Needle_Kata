@@ -63,5 +63,5 @@ public class Kata
 // Refactoring Idea:
 // The current implementation uses an array of objects. If we were to refactor this to use List<T> from the System.Collections.Generic namespace,
 // we could benefit from built-in methods like IndexOf() to find the "needle" without having to manually iterate through the list.
-// Using List<string> would allow us to store only string objects and directly use haystack.IndexOf("needle") to find the index, making the code shorter and potentially more readable.
+// Using List<string> would allow us to store only string objects and directly use haystack.IndexOf("needle") to find the index, making the code shorter and potentially more readable!
 
