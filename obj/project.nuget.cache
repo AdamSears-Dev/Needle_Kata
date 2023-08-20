@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "yf9di0y+AE/XnIA3SsnVEfHH+VMfsdGG8g/Vr67sDnMSDhqsU0OLVVB3v2GFuNpZLvUpTK8QEM9bD+MeRUAJJg==",
+  "success": true,
+  "projectFilePath": "/Users/adamsears/Projects/Needle_Kata/Needle_Kata/Needle_Kata.csproj",
+  "expectedPackageFiles": [
+    "/Users/adamsears/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/adamsears/.nuget/packages/netstandard.library/2.0.0/netstandard.library.2.0.0.nupkg.sha512",
+    "/Users/adamsears/.nuget/packages/nunit/3.13.3/nunit.3.13.3.nupkg.sha512",
+    "/Users/adamsears/.nuget/packages/nunit3testadapter/4.5.0/nunit3testadapter.4.5.0.nupkg.sha512",
+    "/Users/adamsears/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.19/microsoft.aspnetcore.app.ref.6.0.19.nupkg.sha512",
+    "/Users/adamsears/.nuget/packages/microsoft.netcore.app.host.osx-x64/6.0.19/microsoft.netcore.app.host.osx-x64.6.0.19.nupkg.sha512",
+    "/Users/adamsears/.nuget/packages/microsoft.netcore.app.ref/6.0.19/microsoft.netcore.app.ref.6.0.19.nupkg.sha512"
+  ],
+  "logs": []
+}
